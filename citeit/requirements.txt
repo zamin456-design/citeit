@@ -1,0 +1,14 @@
+# Pin exact versions after your first successful install: run `pip freeze` and copy the versions you tested.
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic>=2
+python-dotenv
+numpy
+pypdf
+sentence-transformers
+google-genai
+streamlit
+requests
+pytest
+httpx
